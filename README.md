@@ -1,3 +1,7 @@
+<div>
+<img src="./img/photo.png">
+</div>
+
 <h1 align="center">Hi 👋, I'm Boldin Anatoliy</h1>
 <h3 align="center">QA from Russia</h3>
 
