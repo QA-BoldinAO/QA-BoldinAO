@@ -1,12 +1,4 @@
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-
 ![alt text](./img/github-header-image.png)
-
-<img src="./img/github-header-image.png">
-
-
-<h1 align="center">Hi 👋, I'm Boldin Anatoliy</h1>
-<h3 align="center">QA from Russia</h3>
 
 - 🌱 I’m currently learning ...
 
